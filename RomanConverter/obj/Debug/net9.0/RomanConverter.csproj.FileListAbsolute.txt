@@ -1,0 +1,14 @@
+d:\Coding\RomanConverter\RomanConverter\bin\Debug\net9.0\RomanConverter.exe
+d:\Coding\RomanConverter\RomanConverter\bin\Debug\net9.0\RomanConverter.deps.json
+d:\Coding\RomanConverter\RomanConverter\bin\Debug\net9.0\RomanConverter.runtimeconfig.json
+d:\Coding\RomanConverter\RomanConverter\bin\Debug\net9.0\RomanConverter.dll
+d:\Coding\RomanConverter\RomanConverter\bin\Debug\net9.0\RomanConverter.pdb
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\RomanConverter.GeneratedMSBuildEditorConfig.editorconfig
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\RomanConverter.AssemblyInfoInputs.cache
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\RomanConverter.AssemblyInfo.cs
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\RomanConverter.csproj.CoreCompileInputs.cache
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\RomanConverter.dll
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\refint\RomanConverter.dll
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\RomanConverter.pdb
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\RomanConverter.genruntimeconfig.cache
+d:\Coding\RomanConverter\RomanConverter\obj\Debug\net9.0\ref\RomanConverter.dll
